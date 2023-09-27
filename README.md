@@ -6,7 +6,6 @@
   <body>
     <h1>Registration Form</h1>
     <p>Please fill out this form with the required information</p>
-    <form> <a href="https://register-demo.freecodecamp.org">
       <fieldset>
         <label>Enter Your First Name: <input type="text" name="first-name" required /></label>
         <label>Enter Your Last Name: <input type="text" name="last-name" required /></label>
@@ -38,7 +37,5 @@
         </label>
       </fieldset>
       <input type="submit" value="Submit" />
-    </a>
-    </form>
   </body>
 </html>
